@@ -1,4 +1,4 @@
 Chai code repo for assignments :))
 
-i did my first assignment so late on 11th April T_T
+i did my first assignment so late on 11th April T_T \n
 will try to be regular
